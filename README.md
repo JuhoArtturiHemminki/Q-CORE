@@ -1,6 +1,6 @@
 # Q-CORE: Subtractive Entropy-Sculpting Engine
 
-Q-CORE (Version 2.3.0-Hardened) is a revolutionary post-CMOS computing architecture. It represents a paradigm shift from traditional additive logic (gate-based construction) to subtractive information carving (selective elimination).
+Q-CORE is a revolutionary post-CMOS computing architecture. It represents a paradigm shift from traditional additive logic (gate-based construction) to subtractive information carving (selective elimination).
 
 While conventional processors consume energy to build state transitions, Q-CORE operates as a deterministic filter that sculpts structured data from high-frequency entropy fields.
 
